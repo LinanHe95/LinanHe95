@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Linan He 👋 
-## I'm a Developer, Student, and a Gamer!!
+## I'm a Developer!!
 
 - 🔭 I just finished my Degree in Computer Science!
 - 🌱 I’m currently learning everything 🤣
