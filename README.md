@@ -3,10 +3,10 @@
 ## I'm a Developer!!
 
 - 🔭 I just finished my Degree in Computer Science!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I love meeting new people
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games and food
+- 🌱 I’m currently learning Web3/BlockChain 🤣
+- 👯 I love meeting new people.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: Im competitive person.
 - 📫 How to reach me: Linanhe95@gmail.com
 <br />
 
